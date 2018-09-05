@@ -4,8 +4,8 @@
 
 # 预览
 
-![coolweather](https://github.com/codeandstudy/coolweather/raw/master/image/1.png)
+![coolweather](https://raw.githubusercontent.com/codeandstudy/coolweather/master/image/1.jpg)
 
-![coolweather](https://github.com/codeandstudy/coolweather/raw/master/image/2.png)
+![coolweather](https://raw.githubusercontent.com/codeandstudy/coolweather/master/image/2.jpg)
 
-![coolweather](https://github.com/codeandstudy/coolweather/raw/master/image/3.png)
+![coolweather](https://raw.githubusercontent.com/codeandstudy/coolweather/master/image/3.jpg)
